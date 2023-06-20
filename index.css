@@ -1,0 +1,57 @@
+html{
+    
+}
+
+nav {
+    float: right;
+}
+
+.ts2 , .ts4 {
+    float: right;
+} 
+
+.review , .pros , .why {
+    text-align: center;
+}
+
+.logo {
+    border-radius: 50%;
+    size: 10px;
+}
+
+.pros {
+    font-size: 50px;
+}
+
+.logo {
+    font-size: 35px;
+}
+
+.tagline {
+    font-size: 30px;
+    background:linear-gradient(to bottom right, #14829f, #d8e3ec, #004f76) ;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.review {
+    background-color: #004f76;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+    color:#ffff;
+}
+
+.footer {
+    background-color: #14829f;
+    text-align: center;
+}
+
+.why {
+    background: linear-gradient(to bottom right, #14829f, #d8e3ec, #004f76) ;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.title {
+    font-size: 30px;
+}

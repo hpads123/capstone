@@ -1,0 +1,36 @@
+html {
+}
+
+body{
+
+}
+
+input {
+size: 20px;
+}
+
+.form {
+    margin-left:60px;
+    
+}
+
+.button {
+    text-align: center;
+}
+
+.container {
+    height: 700px;
+    width: 900px;
+    background: linear-gradient(to bottom right, #14829f 29%, #d8e3ec 85%);
+}
+
+.header {
+    font-size: 30px;
+    color: #ffff;
+}
+ hr {
+    color: solid black;
+ }
+.content {
+    background: linear-gradient(to bottom right, #004f76 40%, #d8e3ec 84%);
+}
